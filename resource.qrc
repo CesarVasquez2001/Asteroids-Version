@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Ast.png</file>
+        <file>background.jpg</file>
+        <file>backg.jpg</file>
+        <file>bullet1.png</file>
+        <file>Group.png</file>
+        <file>animation.gif</file>
+        <file>animation1.gif</file>
+        <file>fondo.png</file>
+        <file>playerShip1_blue.png</file>
+        <file>Grey_1.png</file>
+        <file>Grey_2.png</file>
+        <file>Grey_3.png</file>
+        <file>Ship1.png</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+</RCC>
